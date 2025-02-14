@@ -1,6 +1,6 @@
-# Responsive webiste by Tailwind 4.0
+# Home Smart; A responsive webiste by Tailwind 4.0
 **creative design and darkmode**
-![black_under](https://github.com/user-attachments/assets/98f6b1b0-613c-42a5-b0f8-407b5e138bcb)
+![Home Smart](https://github.com/user-attachments/assets/0cd9b222-e15f-4d13-a0d9-9d0883bc64d8)
 - [Demo Project](https://nima-frontend.github.io/black/)
 - Developed by Nima Pourdad
 - Created - 2025-2-14
